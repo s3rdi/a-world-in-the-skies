@@ -4,6 +4,9 @@
 ## github repo
 [link do repo](https://github.com/e-lawniczak/a-world-in-the-skies)
 
+## Trello
+[link do Trello](https://trello.com/invite/b/EyoqW00y/ATTIf5963840a2f1ffa0dbed97686eaee9ebA6FA61FA/a-world-in-the-skies)
+
 ## links
 - [Godot](https://godotengine.org/download/windows/)
 - [Git](https://git-scm.com/) - narzędzie git
