@@ -1,16 +1,14 @@
 # a-world-in-the-skies
  RPG Game Jam 1
 
-
-
 ## github repo
-
+[link do repo](https://github.com/e-lawniczak/a-world-in-the-skies)
 
 ## links
 - [Godot](https://godotengine.org/download/windows/)
 - [Git](https://git-scm.com/) - narzędzie git
 - [Github Desktop](https://desktop.github.com/) - graficzny klient githuba, prosty w obsłudze nie wymagający umiejętności obsługi konsoli
-- [VisualStudio Code](https://code.visualstudio.com/download) - edytor tekstowy, jak ktoś nie wie jaki wybrać
+- [VisualStudio Code](https://code.visualstudio.com/download) - OPCJONALNE, BO GODOT MA WBUDOWANY EDYTOR, edytor tekstowy, jak ktoś nie wie jaki wybrać
 
 ## WIZJA #1
 Wizją zespołu jest stworzenie prostej i przyjemniej platformówki bez platform. Gra typu arcade, w której chcemy zajść jak najdalej. 
