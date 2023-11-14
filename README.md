@@ -28,9 +28,14 @@ Gra sterowana jednym przyciskiem — domyślnie spacją albo old schoolowym Z.
 - Przeszkody, które trzeba przeskoczyć
 - Strzelanie graczem z armaty z poziomu na poziom
 - Progresywna trudność
+- wpadnięcie na balon, które przyśpiesza i podbija lekko do góry
 
 ### Opcjonalne feature
 - Boss, którego trzeba pokonać:
   - przeczekując go, jednocześnie unikając jego "ataków"
   - skacząc po mapie zbierając specjalne pick up'y, które zbijają HP bossa
   - jakiś inny sposób niewymagający wprowadzania dodatkowych przycisków do gry
+ 
+### Theme, wizja graficzna
+W tle chmurki i "tło"
+Gra opowiada o pingwinie, który leci po niebie, korzystając z lin zawieszonych na balonach.
