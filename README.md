@@ -27,7 +27,7 @@ Gra sterowana jednym przyciskiem — domyślnie spacją albo old schoolowym Z.
 - Podwójny skok
 - Przeszkody, które trzeba przeskoczyć
 - Strzelanie graczem z armaty z poziomu na poziom
-- TBA...
+- Progresywna trudność
 
 ### Opcjonalne feature
 - Boss, którego trzeba pokonać:
