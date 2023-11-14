@@ -26,9 +26,11 @@ Gra sterowana jednym przyciskiem — domyślnie spacją albo old schoolowym Z.
 - Liny, na których da się bujać
 - Podwójny skok
 - Przeszkody, które trzeba przeskoczyć
+- Strzelanie graczem z armaty z poziomu na poziom
+- TBA...
+
+### Opcjonalne feature
 - Boss, którego trzeba pokonać:
   - przeczekując go, jednocześnie unikając jego "ataków"
   - skacząc po mapie zbierając specjalne pick up'y, które zbijają HP bossa
   - jakiś inny sposób niewymagający wprowadzania dodatkowych przycisków do gry
-- Strzelanie graczem z armaty z poziomu na poziom
-- TBA...
